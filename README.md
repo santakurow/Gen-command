@@ -6,8 +6,10 @@ Generate a directory with html file, css stylesheet and javascript file (option)
 ## introduction
 After cloning the repository to any directory,
  type the following command
+ 
+ "dirname" is the full path of the cloned location.
 
-`echo 'export PATH=$PATH:$HOME/dirname' >> ~/.bash_profile`
+`echo 'export PATH=$PATH:dirname' >> ~/.bash_profile`
 
 and 
 
