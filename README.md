@@ -4,13 +4,18 @@
 Generate a directory with html file, css stylesheet and javascript file (option) with few commands
 
 ## introduction
+
+```
+git clone https://github.com/santakurow/Shell-command
+```
+
 Clone this repository as follows.
 
 ex.
 
 ```
 - HOME_directory
-   - entry_point <--- clone this repository here !
+   - entry_point  <-- clone this repository here !
 ```
 
 type the following command (``dirname`` is the full path of the cloned location).
