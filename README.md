@@ -18,10 +18,11 @@ type the following command (``dirname`` is the full path of the cloned location)
 ```
 echo 'export PATH=$PATH:dirname' >> ~/.bash_profile
 ```
-ex. In the above example, it looks like this↓
+In the above example, it looks like this↓
+ex.
 
 ```
-echo 'export PATH=$PATH:/Users/USER_NAME/entry_point/Shell-command'
+echo 'export PATH=$PATH:/Users/USER_NAME/entry_point/Shell-command' >> ~/.bash_profile
 ```
 
 and 
