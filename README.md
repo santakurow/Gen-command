@@ -9,9 +9,8 @@ Clone this repository as follows.
 ex.
 
 ```
-HOME_directory
-     |
-     |--------- entry_point <--- clone this repository here !
+- HOME_directory
+   - entry_point <--- clone this repository here !
 ```
 
 type the following command (``dirname`` is the full path of the cloned location).
