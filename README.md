@@ -59,6 +59,12 @@ This will also generate a javascript file.
 gen dirName -j
 ```
 
+with bootstrap template
+
+```
+gen dirName -b
+```
+
 ## specification
 
 * macOSX Catalina 10.15.6
