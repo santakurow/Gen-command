@@ -4,20 +4,22 @@
 Generate a directory with html file, css stylesheet and javascript file (option) with few commands
 
 ## introduction
-Clone the repository as follows.
+Clone this repository as follows.
 
 ex.
 
 ```
 HOME_directory
      |
-     |--------- entry_point <--- clone the repository here !
+     |--------- entry_point <--- clone this repository here !
 ```
+
 type the following command (``dirname`` is the full path of the cloned location).
 
 ```
 echo 'export PATH=$PATH:dirname' >> ~/.bash_profile
 ```
+
 In the above example, it looks like this↓
 ex.
 
