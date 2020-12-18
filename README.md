@@ -13,13 +13,15 @@ HOME_directory
      |
      |--------- entry_point <--- clone the repository here !
 ```
-
- type the following command
- 
- ``dirname`` is the full path of the cloned location.
+type the following command (``dirname`` is the full path of the cloned location).
 
 ```
 echo 'export PATH=$PATH:dirname' >> ~/.bash_profile
+```
+ex. In the above example, it looks like this↓
+
+```
+echo 'export PATH=$PATH:/Users/USER_NAME/entry_point/Shell-command'
 ```
 
 and 
