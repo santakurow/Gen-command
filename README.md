@@ -6,7 +6,7 @@ Generate a directory with html file, css stylesheet and javascript file (option)
 ## introduction
 
 ```
-git clone https://github.com/santakurow/Shell-command
+git clone https://github.com/santakurow/Shell-command.git
 ```
 
 Clone this repository as follows.
